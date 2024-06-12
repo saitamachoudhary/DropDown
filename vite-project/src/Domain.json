@@ -1,0 +1,77 @@
+{
+    "description": null,
+    "display": true,
+    "error": false,
+    "data": [
+        {
+            "id": 2023799824,
+            "name": "self-CarE1",
+            "longtermdata":[
+                {
+                    "id": 412583201,
+                    "name": "Test supriya ",
+                    "shorttermdata":[
+                        {
+                            "id": 125,
+                            "name": "tanya1"
+                        }
+                    ]
+                },
+                {
+                    "id": 412583202,
+                    "name": "Long term goal 1",
+                    "shorttermdata":[
+                        {
+                            "id": 125,
+                            "name": "tanya2"
+                        }
+                    ]
+                    
+                },
+                {
+                    "id": 412583204,
+                    "name": "Test supriya"
+                }
+            ]
+        },
+        {
+            "id": 2023799825,
+            "name": "Neuromotor Processes",
+            "longtermdata":[
+                {
+                    "id": 412583202,
+                    "name": "Test supriya 2 "
+                },
+                {
+                    "id": 412583202,
+                    "name": "Long term goal 2"
+                },
+                {
+                    "id": 412583204,
+                    "name": "Test supriya2"
+                }
+            ]
+        },
+        {
+            "id": 2023799826,
+            "name": "Gross Motor"
+            
+        },
+        {
+            "id": 2023799827,
+            "name": "Fine Motor/Visual Motor"
+        },
+        {
+            "id": 2023799828,
+            "name": "Sensory Processing"
+        },
+        {
+            "id": 2023799829,
+            "name": "Social Emotional/Play"
+        },
+        {
+            "id": 2023799830,
+            "name": "Self-Care"
+        }
+    ]
+}
